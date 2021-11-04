@@ -6,7 +6,7 @@
 
 Deployed Website: https://mayarateles.github.io/stopwatch/
 
-![fundo.png](.images/fundo.png)
+![](/images/fundo.png)
 
 ## Built With
 
@@ -21,8 +21,8 @@ Deployed Website: https://mayarateles.github.io/stopwatch/
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that we can review your changes
